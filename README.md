@@ -1,2 +1,0 @@
-# POSRestaurante1
-proyecto
